@@ -1,0 +1,18 @@
+{
+    "name": "batman-express"
+  , "author": "Austin Taylor <austin.taylor@gmail.com>"
+  , "description": "An application boilerplate running express.js on the server and batman.js on the client"
+  , "version": "0.0.1"
+  , "private": true
+  , "engines": {
+    "node": "*"
+  }
+  , "dependencies": {
+      "express":        "2.4.6"
+    , "jade":           ">= 0.0.1"
+    , "batman":         ">= 0.5.0"
+    , "coffee-script":  ">= 1.1.0"
+    , "stylus":         "*"
+    , "connect-assets": "*"
+  }
+}
